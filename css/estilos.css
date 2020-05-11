@@ -1,0 +1,33 @@
+body  {
+    background-image: url('http://getwallpapers.com/wallpaper/full/c/a/9/951206-cool-dark-blue-background-wallpaper-1920x1200-samsung.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;   
+  }
+  .site-subtitle,
+  .site-title {
+    color: white;
+    text-align: center;
+  }
